@@ -1,0 +1,11 @@
+void code
+{
+ a= 10
+ b= 5  10>5
+
+if[$a -gt $b]
+  then
+ each $a is big
+fi
+
+}
